@@ -20,7 +20,8 @@ export default [
   },
   {
     title: "Fourth Slide",
-    description: "This is the Fourth slider Image of our carousel",
+    description:
+      "This is the Fourth slider Image of our carousel taken from outside url",
     urls: "https://mdbootstrap.com/img/Photos/Slides/img%20(133).jpg",
   },
   {
