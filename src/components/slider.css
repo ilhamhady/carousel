@@ -4,7 +4,7 @@
 }
 
 :root {
-  --heights: 50vh;
+  --heights: 600px;
   --widths: 100%;
 }
 
@@ -69,8 +69,9 @@
   border-radius: 0px 5px 5px 0px;
 }
 
-.slider-container:hover .prev,.slider-container:hover .next {
-  color: black
+.slider-container:hover .prev,
+.slider-container:hover .next {
+  color: black;
 }
 
 .slider-container:hover .prev:hover,
@@ -114,10 +115,10 @@
   background-color: rgba(255, 255, 255, 0.5);
 } */
 
-.slider-container:hover .dot{
+.slider-container:hover .dot {
   background-color: rgba(0, 0, 0, 0.3);
 }
-.slider-container:hover .active-dot{
+.slider-container:hover .active-dot {
   background-color: rgba(255, 255, 255, 0.5);
 }
 
