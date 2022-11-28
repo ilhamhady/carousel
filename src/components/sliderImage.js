@@ -2,7 +2,7 @@ import First from "../assets/First.jpg";
 import Second from "../assets/Second.jpg";
 import Third from "../assets/Third.jpg";
 
-export default [
+const sliderImage = [
   {
     title: "First Slide",
     description: "This is the first slider Image of our carousel",
@@ -40,3 +40,5 @@ export default [
     urls: "https://mdbootstrap.com/img/Photos/Slides/img%20(102).jpg",
   },
 ];
+
+export default sliderImage;
